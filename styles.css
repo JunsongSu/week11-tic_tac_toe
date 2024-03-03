@@ -1,0 +1,19 @@
+#gameBoard {
+    border-collapse: collapse;
+    width: 300px;
+    margin: auto;
+}
+
+#gameBoard td {
+    border: 1px solid #ddd;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+#turnText {
+    text-align: center;
+}
+
